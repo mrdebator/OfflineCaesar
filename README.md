@@ -3,4 +3,4 @@ Native Caesar cipher encoder and decoder with the option to brute force all shif
 
 Usage:
 
-python3 caesar.py
+```python3 caesar.py```
